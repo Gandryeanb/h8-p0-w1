@@ -1,0 +1,66 @@
+body {
+    background-image: url("./img/pattern.png");
+    margin: 0px;
+}
+
+header {
+    position: fixed;
+    display: inline-block;
+    width: 100%;
+    background: white;
+    border-bottom: 1px solid rgb(197, 197, 197);
+    height: 50px;
+    z-index: 10;
+}
+header img {
+    margin: 5px 10px;
+}
+nav {
+    height: 50px;
+    padding-right: 20px;
+    float: right;
+}
+ul {
+    list-style-type: none;
+}
+nav a{
+    font-size: 16px;
+    text-decoration: none;
+    display: inline-block;
+    margin-right: 20px;
+}
+section {
+    padding: 70px 0px 50px 0px;
+}
+.judul {
+    font-family: 'Slabo 27px', serif;
+    text-align: center;
+    position: relative;
+    font-size: 27px;
+    color: rgb(82, 82, 82);
+    letter-spacing: 2px;
+    z-index: 1;
+}
+.post1 {
+    background-color: rgb(255, 255, 255);
+    color: rgb(83, 83, 83);
+    border: 1px solid white;
+    border-radius: 4px;
+    margin: 2px 240px;
+    padding: 5px 30px;
+}
+.post1 a {
+    font-size: 17px;
+    text-decoration: none;
+}
+p {
+    font-family: "sans-serif";
+}
+footer {
+    padding-top: 20px;
+    color: aliceblue;
+    width: 100%;
+    background-color: rgb(44, 44, 44);
+    height: 70px;
+    text-align: center;
+}
