@@ -1,2 +1,2 @@
 ### *Future plan* for this site
-this site will designed for portfolio purpose
+this **branch** and this **site** will designed for **portfolio** purpose
