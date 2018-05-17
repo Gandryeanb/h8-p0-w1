@@ -1,6 +1,33 @@
+html {
+    border: 1px solid pink;
+}
 header {
-    font-family: Impact, sans-serif;
-    .utama {
-        background-color: red;
-    }
+    border: 1px solid black;
+    height: 50px;
+}
+.logo {
+    margin-left: 100px;
+    margin-top: 10px;
+}
+.navr {
+    margin-top: -85px;
+    border: 1px solid black;
+    margin-right: 100px;
+}
+.nav {
+    border: 1px solid black;
+    float: right;
+    padding: 15px 10px;
+    height: 20px;
+    width: 120px;
+    text-align: center;
+}
+body {
+    border: 1px solid red;
+    width: 100%;
+    margin:-1px;
+}
+footer {
+    border: 2px solid green;
+    height: 50px;
 }
